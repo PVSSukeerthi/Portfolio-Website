@@ -19,6 +19,7 @@ Welcome to my portfolio! This website showcases my work and skills. Feel free to
 - CSS3
 - JavaScript
 - Bootstrap
+  
 -Resources used
   1. Template used for framework-https://bootstrapmade.com/demo/Presento/
   2. Charts to show skill-https://codepen.io/kyledws/pen/VwKmVv
