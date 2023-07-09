@@ -8,11 +8,10 @@ Welcome to my portfolio! This website showcases my work and skills. Feel free to
 ## Sections
 
 - **About Me**: Get to know me better.
+- **Projects**: Explore the projects I have worked on.
 - **Skills**: Discover the programming languages, frameworks, and tools I specialize in.
-- **Projects**: Explore the projects I have worked on. 
 - **Resume**: Download my resume to get a comprehensive overview of my qualifications and experience.
-- **Contact**: Reach out to me for inquiries, collaboration opportunities, or just to say hello. Fill out the contact form, and I'll get back to you as soon as possible.
-
+- **Contact**: Reach out to me for inquiries and collaboration opportunities.
 ## Technologies Used
 
 - HTML5
