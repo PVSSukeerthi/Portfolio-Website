@@ -22,3 +22,8 @@ Welcome to my portfolio! This website showcases my work and skills. Feel free to
 1. Clone the repository or download the source code as a ZIP file.
 2. Extract the contents of the ZIP file (if applicable).
 3. Open the project folder in your preferred text editor or IDE.
+
+## Resouces used
+
+1. Template used for framework-https://bootstrapmade.com/demo/Presento/
+2. Charts to show skill-https://codepen.io/kyledws/pen/VwKmVv
