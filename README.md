@@ -23,6 +23,9 @@ Welcome to my portfolio! This website showcases my work and skills. Feel free to
 2. Extract the contents of the ZIP file (if applicable).
 3. Open the project folder in your preferred text editor or IDE.
 
+## Link of the hosted site
+  https://tourmaline-marzipan-79d6c6.netlify.app/ 
+
 ## Resouces used
 
 1. Template used for framework-https://bootstrapmade.com/demo/Presento/
